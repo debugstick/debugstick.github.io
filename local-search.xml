@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>666!</title>
+    <title>链接!</title>
     <link href="/2022/11/21/666/"/>
     <url>/2022/11/21/666/</url>
     
-    <content type="html"><![CDATA[<p>666</p>]]></content>
+    <content type="html"><![CDATA[<p>666</p><h1 id="http"><a href="#http" class="headerlink" title="http"></a>http</h1>]]></content>
     
     
     
